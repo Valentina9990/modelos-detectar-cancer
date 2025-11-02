@@ -99,7 +99,7 @@ El proyecto utiliza las siguientes herramientas:
 ### Prerrequisitos
 
 ```bash
-pip install scikit-learn pandas numpy matplotlib seaborn ucimlrepo
+pip install scikit-learn pandas numpy matplotlib seaborn ucimlrepo CompStats statsmodels
 ```
 
 ### Ejecución
